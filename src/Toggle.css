@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,800&family=Patua+One&family=Permanent+Marker&family=Raleway:wght@200;900&display=swap');
+
+.toggle {
+    background-color: #94b3e3;
+    padding: 30px;
+    line-height: 280%;
+    color: white;
+    border-radius: 20%;
+}
+
+.career {
+    font-size: 50px;
+    font-weight: 300;
+    color: royalblue;
+    text-align: center;
+    font-family: 'Patua One', cursive;
+}
+
+.company {
+    font-family: 'Patua One', cursive;
+    font-size: 30px;
+    text-align: center;
+}
+
+.period {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}

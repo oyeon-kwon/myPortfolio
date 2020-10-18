@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,800&family=Permanent+Marker&family=Raleway:wght@200;900&display=swap');
+
+.Desc {
+    text-align: left;
+    padding: 150px 0px 100px 50px;
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+
+.boldDesc {
+    font-weight: 800;
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.subDesc {
+    font-family: 'Raleway', sans-serif;
+    line-height: 200%;
+}
+.name {
+    font-size: 80px;
+    font-weight: 900;
+    font-family: 'Raleway', sans-serif;
+}
+
+.Imac {
+    background-image: none;
+}
+
+.scroll {
+    padding: 80px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    color: rgb(97, 97, 204);
+}
+
+img {
+    width: 20px;
+    height: 20px;
+}

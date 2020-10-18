@@ -1,0 +1,23 @@
+.navBox {
+    padding: 30px;
+}
+
+.before {
+    position: fixed;
+    left: 30px;
+}
+
+.before:hover {
+    color: royalblue;
+    transition: .5s;
+}
+
+.email {
+    position: fixed;
+    right: 30px;
+}
+
+.email:hover {
+    color: royalblue;
+    transition: .5s;
+}
