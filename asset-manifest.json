@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/github.io/myPortfolio/static/css/main.281006a6.chunk.css",
+    "main.js": "/github.io/myPortfolio/static/js/main.28a1f774.chunk.js",
+    "main.js.map": "/github.io/myPortfolio/static/js/main.28a1f774.chunk.js.map",
+    "runtime-main.js": "/github.io/myPortfolio/static/js/runtime-main.bf6d6c2d.js",
+    "runtime-main.js.map": "/github.io/myPortfolio/static/js/runtime-main.bf6d6c2d.js.map",
+    "static/js/2.d6924554.chunk.js": "/github.io/myPortfolio/static/js/2.d6924554.chunk.js",
+    "static/js/2.d6924554.chunk.js.map": "/github.io/myPortfolio/static/js/2.d6924554.chunk.js.map",
+    "index.html": "/github.io/myPortfolio/index.html",
+    "precache-manifest.45ca734598c7f7557f6dbc7831c048fc.js": "/github.io/myPortfolio/precache-manifest.45ca734598c7f7557f6dbc7831c048fc.js",
+    "service-worker.js": "/github.io/myPortfolio/service-worker.js",
+    "static/css/main.281006a6.chunk.css.map": "/github.io/myPortfolio/static/css/main.281006a6.chunk.css.map",
+    "static/js/2.d6924554.chunk.js.LICENSE.txt": "/github.io/myPortfolio/static/js/2.d6924554.chunk.js.LICENSE.txt",
+    "static/media/AcidRain.png": "/github.io/myPortfolio/static/media/AcidRain.274de0a3.png",
+    "static/media/misae.png": "/github.io/myPortfolio/static/media/misae.a392e0c1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf6d6c2d.js",
+    "static/js/2.d6924554.chunk.js",
+    "static/css/main.281006a6.chunk.css",
+    "static/js/main.28a1f774.chunk.js"
+  ]
+}
